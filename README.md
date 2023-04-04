@@ -6,6 +6,9 @@ This is a minor Incrementer and Decrementer App.
 Tech used📲: HTML, Tailwind CSS, JavaScript
 
 
+WebSite: http://counter-app-kk31.netlify.app
+
+
 
 Overview of Site:
 
